@@ -1,0 +1,5 @@
+C:\Users\Max\Desktop\C#\LB3_2_2023\LB3_2_2023\obj\Debug\net6.0\LB3_2_2023.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\C#\LB3_2_2023\LB3_2_2023\obj\Debug\net6.0\LB3_2_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\C#\LB3_2_2023\LB3_2_2023\obj\Debug\net6.0\LB3_2_2023.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\C#\LB3_2_2023\LB3_2_2023\obj\Debug\net6.0\LB3_2_2023.AssemblyInfo.cs
+C:\Users\Max\Desktop\C#\LB3_2_2023\LB3_2_2023\obj\Debug\net6.0\LB3_2_2023.csproj.CoreCompileInputs.cache
